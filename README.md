@@ -1,10 +1,10 @@
 # Unity-FPS-Target-Shooter
-Small basic game made in Unity with functional weapon, reloading system, zoom aiming , picking up ammo and of course shooting targets
+<p><b> Small basic game made in Unity with functional weapon, reloading system, zoom aiming , picking up ammo and of course shooting targets
 
-<p><b>U prilozenom se nalazi jednostavna Unity igrica kodirana u C# programskom jeziku.
+<p><b>Coding was implemented in C# language.
   
-<h2> Mapa </h2>
-<p>Mapa je jednostavna podloga sa minimalnim materijalima, cilj je bio da izgleda futuristicki..</p>
+<h2> Map </h2>
+<p>Map is of a very simple layout with minimum texturing. The goal was making a futuristic SCI-FI scene..</p>
 <p> </p>
 <img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/Map.png"></img>
 <br>
