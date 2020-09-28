@@ -1,5 +1,5 @@
 # Unity-FPS-Target-Shooter
-<p><b> Small basic game made in Unity with functional weapon, reloading system, zoom aiming , picking up ammo and of course shooting targets
+<p><b> Small one level basic game made in Unity with functional weapon, reloading system, zoom aiming , picking up ammo and of course shooting targets
 
 <p><b>Coding was implemented in C# language.
   
@@ -34,7 +34,7 @@
 <br>
 
 <h2> Destroying targets</h2>
-<p>Targets are made to have 100 health points and the gun shot has 30 points so when shooting you still have to shoot 4 times to distroy the target</p>
+<p>Targets are made to have 100 health points and the gun shot has 30 points so when shooting you still have to shoot 4 times to destroy the target</p>
 <p> </p>
 <img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/targets.png"></img>
 <img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/destryTrgt.gif"></img>
