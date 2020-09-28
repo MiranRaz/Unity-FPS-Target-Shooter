@@ -18,5 +18,5 @@
 <h2> Ammo </h2>
 <p>There is an ammo crate that when you make contact with it dissapears and refils your ammo. The crate has 120 bullets and if you dont have any bullets left int the gun or in the reserve It automaticly adds 35 bullets to the gun and the 85 rest to the reserve, but if you have some in the gun it adds al to the reserve</p>
 <p> </p>
-<https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/Ammo.png"></img>
+<img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/Ammo.png"></img>
 <br>
