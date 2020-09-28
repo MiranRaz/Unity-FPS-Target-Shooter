@@ -27,3 +27,16 @@
 <img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/reload.gif"></img>
 <br>
 
+<h2> Aim to shoot </h2>
+<p>Pressing the q button you can get the zoom activated and the closer aim for more precise shot.Also releasing the q button it sets back your gun to the starting point</p>
+<p> </p>
+<img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/aim.gif"></img>
+<br>
+
+<h2> Destroying targets</h2>
+<p>Targets are made to have 100 health points and the gun shot has 30 points so when shooting you still have to shoot 4 times to distroy the target</p>
+<p> </p>
+<img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/targets.png"></img>
+<img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/destryTrgt.gif"></img>
+
+<br>
