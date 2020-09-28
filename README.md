@@ -10,7 +10,7 @@
 <br>
 
 <h2> Character and Weapons </h2>
-<p>Character still non exsiting,will be added in the future only thing that can be seen is the gun</p>
+<p>Character still non exsiting,will be added in the future only thing that can be seen is the gun. The crosshair is red and it widens as you shoot</p>
 <p> </p>
 <img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/fps%20player.png"></img>
 <br>
@@ -20,3 +20,10 @@
 <p> </p>
 <img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/Ammo.png"></img>
 <br>
+
+<h2> Reloading </h2>
+<p>Basic implementation nothing new invented.. when your number count is less than 35 you can press r button to reload</p>
+<p> </p>
+<img src="https://github.com/MiranRaz/Unity-FPS-Target-Shooter/blob/master/Photos/reload.gif"></img>
+<br>
+
